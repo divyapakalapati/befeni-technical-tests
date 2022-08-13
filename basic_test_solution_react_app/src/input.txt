@@ -1,0 +1,6 @@
+add 4
+div 0
+multiply 5
+subtract 10
+add 20
+apply 20
