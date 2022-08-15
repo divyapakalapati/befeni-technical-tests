@@ -12,5 +12,5 @@
 # How to Run:
 - Clone the repo and navigate to the root folder
 - npm start 
-- the output will be shown as <h1> in the browser.
+- the output will be shown as heading in the browser.
 - refer to the .gitignore file to verify files ignored.
