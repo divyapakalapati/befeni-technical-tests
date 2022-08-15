@@ -1,5 +1,5 @@
 add 4
-div 0
+div 2
 multiply 5
 subtract 10
 add 20

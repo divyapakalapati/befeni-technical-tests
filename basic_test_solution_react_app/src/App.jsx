@@ -39,7 +39,6 @@ function App() {
 
   return (
      <div className="App">
-     <div> hello </div>
      <h1> Result is {apply_val}</h1>   
     </div>
     
